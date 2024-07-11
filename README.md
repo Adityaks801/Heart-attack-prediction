@@ -1,10 +1,6 @@
 # Heart-attack-prediction
 This is an ml project using multiple algorithms
-6 Gross Income
 
-Bollywood Movie data from 2000 to 2019
-
-17.7K English song data from 2008-2017
 
 About this dataset
 Age : Age of the patient
